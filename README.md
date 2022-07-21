@@ -24,6 +24,8 @@ weight connection, and (4) an Attention mechanism.
 ![image](https://github.com/Boomwwe/AMIML/blob/main/Figure/Figure_1(c).png)
 
 ## Visualization
-The attention mechanism is designed to assign higher weights to the more relevant patches to the outcome. This feature allows us to identify predictive image patches.
-![image](https://github.com/Boomwwe/AMIML/blob/main/Figure/Figure_4.png)
+The attention mechanism is designed to assign higher weights to the more relevant patches to the outcome. This feature allows us to 
+identify predictive image patches.
+
+![image](https://github.com/Boomwwe/AMIML/blob/main/Figure/Figure4.png)
 
