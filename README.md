@@ -8,7 +8,7 @@ This is the introduction of our proposed Mutiple Instance Learning(MIL) algorith
 
 ## Our pipeline of data proprecessing
 We preprocess the whole-slide images using a pipeline in our laboratory and extract the feature vectors of the pathology images
-![image](public/image/20190528145810708.png)
+![image](Figure_1(a) - 副本.png)
 
 ## Our clustering algorithm
 
